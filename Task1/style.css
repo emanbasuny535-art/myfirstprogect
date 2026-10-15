@@ -1,0 +1,19 @@
+.head{
+    background-color: rgb(240, 143, 7);
+    height: 50px;
+    margin-bottom: 0px;
+}
+.parent{
+    background-color: rgb(251, 251, 81);
+}
+.item1{
+    display: inline-block;
+    width: 24.7%;
+}
+.item1 img{
+    width: 300px;
+    height: 300px;
+}
+.item1 p{
+    margin: auto;
+}
